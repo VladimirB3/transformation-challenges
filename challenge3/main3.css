@@ -1,0 +1,10 @@
+.element {
+    width: 100px;
+    height: 100px;
+    background-color: #bada55;
+    transition: transform 1s ease-in-out;
+}
+
+hover:element {
+    transform: translateX(100%);
+}
